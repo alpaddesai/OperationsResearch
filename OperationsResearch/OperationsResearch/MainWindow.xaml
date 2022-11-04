@@ -1,0 +1,24 @@
+﻿<Window x:Class="OperationsResearch.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OperationsResearch"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="571" Width="880">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Programming">
+                <Grid Background="#FFE5E5E5">
+                    <Image Margin="-1,3,5,3" Source="/SlidesI.jpg" Stretch="Fill"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Operations Research">
+                <Grid Background="#FFE5E5E5">
+                    <Image Margin="-2,5,7,1" Source="/SlidesII.jpg" Stretch="Fill"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>
