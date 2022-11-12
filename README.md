@@ -8,6 +8,9 @@ The project provides an introduction to Operations Research. Confidential inform
 ## Operations Research
 ![image](OperationsResearchII.jpg)
 
+## Ethics
+![image](Ethics.jpg)
+
 ## certificate
 ![image](USCopyrightCertificate.png)
 
