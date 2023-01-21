@@ -57,19 +57,19 @@ The project provides an introduction to Operations Research. Confidential inform
 ![image](FinalProject.jpg)
 
 ## Java Application
-![image](SimulationPerformance1.JPG)
+![image](SimulationPerformance1.png)
 
 ## Java Application
-![image](SimulationPerformance2.JPG)
+![image](SimulationPerformance2.png)
 
 ## Java Application
-![image](SimulationPerformance3.JPG)
+![image](SimulationPerformance3.png)
 
 ## Java Application
-![image](SimulationPerformance4.JPG)
+![image](SimulationPerformance4.png)
 
 ## Java Application
-![image](SimulationPerformance5.JPG)
+![image](SimulationPerformance5.png)
 
 ## Ethics
 ![image](Ethics.jpg)
