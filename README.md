@@ -14,4 +14,4 @@ The project provides an introduction to Operations Research. Confidential inform
 ## certificate
 ![image](USCopyrightCertificate.png)
 
-Additioanl details reference:  https://github.com/alpaddesai/SoftwareEngineering
+Additioanl details reference:  https://github.com/alpaddesai/EngineeringProjectManagement
